@@ -1,0 +1,10 @@
+COmpressie foto's zoeken oplossing als het nodig is
+Edge filter voor kleur verschil foto's
+Luuk vragen foto's en of alleen aders bekijken prima is. 
+
+
+Weekdoelen
+onderzoeken image data cleaning best practices
+	Oogader netwerken lezen misschien geen andere cleaning nodig?
+POC met oog images
+Reinformcent learning start
